@@ -1,5 +1,5 @@
 {
-    "name": "ABHI-BUG-BOT",
+    "name": "Qoyum 🉐🉐",
     "version": "0.0.1",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "ABHISHEK SURESH",
+    "author": "Qoyum🉐🉐",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
